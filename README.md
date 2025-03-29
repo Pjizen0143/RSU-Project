@@ -5,10 +5,12 @@
     Fish Tank IoT Project
 </head>
 <body>
-    <h1>CPE241 - Internet of Things - Project : Fish Tank</h1>
+    <h2>CPE241 - Internet of Things - Project : Fish Tank</h2>
     <p>
         GitHub Repository : <a href="https://github.com/Pjizen0143/FishTank">https://github.com/Pjizen0143/FishTank</a>
     </p>
+    <p>
+        โปรเจคนี้เป็นส่วนนึงของวิชา CPE241 - Internet of Things จัดทำขึ้นเพื่อเรียนรู้และสร้างระบบ IOT อย่างง่าย
     <p>
         รายละเอียดเบื้องต้น : โปรเจ็กต์สำหรับการเรียนรู้และสร้างระบบ Internet of Things อย่างง่าย
         <br> - ระบบควบคุมตู้ปลา: การตั้งค่าจำนวนครั้งให้อาหารต่อวัน
