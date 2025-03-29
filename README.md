@@ -2,7 +2,7 @@
 <html lang="th">
 <head>
     <meta charset="UTF-8">
-    Fish Tank IoT Project
+    Fish Tank IoT Project ( Date: December 2024 )
 </head>
 <body>
     <h2>CPE241 - Internet of Things - Project : Fish Tank</h2>
