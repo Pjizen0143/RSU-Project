@@ -2,7 +2,7 @@
 <html lang="th">
 <head>
     <meta charset="UTF-8">
-    <title>Fish Tank IoT Project</title>
+    Fish Tank IoT Project
 </head>
 <body>
     <h1>CPE241 - Internet of Things - Project : Fish Tank</h1>
@@ -18,7 +18,7 @@
     </p>
     <p>
         รายละเอียดเพิ่มเติม: 
-        <a href="https://github.com/Pjizen0143/FishTank/blob/main/รายละเอียด.pdf">ดาวน์โหลดเอกสาร</a>
+        <a href="https://github.com/Pjizen0143/FishTank/blob/main/%E0%B8%95%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B8%A5%E0%B8%B2%20%E0%B9%91%E0%B9%90%E0%B9%91.pdf">ดูเอกสาร</a>
     </p>
 </body>
 </html>
